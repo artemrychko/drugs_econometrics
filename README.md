@@ -6,3 +6,9 @@ Repository includes:
 3) Data cleaning 
 4) Resgressions estimations
 5) Article paper
+
+
+
+## tor_parser requirements and usage:
+Req: installed application proxifiler, installed app. Tor browser, installed chrome webdriver
+Usage: configure proxifiler for redirect internet via Tor browser (127.0.0.1:9150, SOCKS5), run tor browser, run proxifiler, use tor_parser.ipynb notebook.
