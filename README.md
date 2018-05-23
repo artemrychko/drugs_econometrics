@@ -11,6 +11,6 @@ Repository includes:
 
 ## tor_parser requirements and usage:
 
-Req: installed application proxifiler, installed app. Tor browser, installed chrome webdriver.
+Req: installed application proxifier, installed app. Tor browser, installed chrome webdriver.
 
-Usage: configure proxifiler for redirect internet via Tor browser (127.0.0.1:9150, SOCKS5), run tor browser, run proxifiler, use tor_parser.ipynb notebook.
+Usage: configure proxifier for redirect internet via Tor browser (127.0.0.1:9150, SOCKS5), run tor browser, run proxifier, use tor_parser.ipynb notebook.
